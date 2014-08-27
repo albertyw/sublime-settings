@@ -1,0 +1,14 @@
+[
+    // Pane Navigation
+    {
+        "keys": ["ctrl+pageup"],
+        "command": "pane_navigation",
+        "args": {"direction": 1}
+        },
+    {
+        "keys": ["ctrl+pagedown"],
+        "command": "pane_navigation",
+        "args": {"direction": -1}
+        },
+
+]

@@ -1,0 +1,19 @@
+{
+	"auto_complete": false,
+	"auto_close_tags": false,
+	"tab_completion": false,
+
+	"caret_extra_width": 1,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+    "default_line_ending": "unix",
+	"font_face": "Inconsolata",
+	"font_size": 15,
+	"hide_minimap": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_full_path": true
+}
