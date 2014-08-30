@@ -1,0 +1,13 @@
+[
+    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    {
+        "keys": ["ctrl+pageup"],
+        "command": "pane_navigation",
+        "args": {"direction": 1}
+    },
+    {
+        "keys": ["ctrl+pagedown"],
+        "command": "pane_navigation",
+        "args": {"direction": -1}
+    },
+]
